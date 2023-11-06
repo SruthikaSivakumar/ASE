@@ -1,2 +1,2 @@
-printf("hello world")
-printf("My name is sruthika")
+print("hello world")
+print("My name is sruthika")
